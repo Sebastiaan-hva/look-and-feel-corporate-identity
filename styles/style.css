@@ -2,7 +2,6 @@
     box-sizing: border-box; 
     margin: 0; 
     padding: 0; 
-    test
 }
 
 
@@ -109,16 +108,10 @@ article{
     }
 }
 
-/* structuur meerdere programmering's naast elkaar. iets met flex direction column */
+.veronica-secondary{
+    color:var(--brand-secondary);
+}
 
-
-
-/* article:nth-of-type(even){
-    background-color:black;
-    h2, p{
-        color:white;
-    }
-    footer li{
-        color:grey;
-    }
-} */
+.slam-primary{
+    color:var(--brand-primary);
+}
