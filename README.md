@@ -1,23 +1,16 @@
-# Corporate Identity
+De opdracht van deze sprint was voor Triple voor het Mediahuis de programma pagina redesignen.
 
-Ontwerp en maak voor een opdrachtgever een website op basis van een bestaande huisstijl.
-
-De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/look-and-feel-corporate-identity/blob/main/docs/INSTRUCTIONS.md)
+(https://sebastiaan-hva.github.io/look-and-feel-corporate-identity/)
 
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Deze sprint ben ik bezig geweest met een nieuw desktop design met programma's naast elkaar. 
+de designs:
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+design na openen programma's:
+![image](https://github.com/user-attachments/assets/8a6f7105-9b17-471e-bb6d-d5ed03db7a25)
 
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+default design: 
+![image](https://github.com/user-attachments/assets/bbd3c9d9-b1c1-446c-b5d7-7fd562fee927)
 
-## Bronnen
+Er is onderaan een button om de programma's open en dicht te klappen
 
-## Licentie
-
-This project is licensed under the terms of the [MIT license](./LICENSE).
